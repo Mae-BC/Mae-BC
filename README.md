@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Mae
-- 👀 I’m interested in web development
-- 🌱 I’m from New Zealand
-- 😄 Pronouns: She/Her
+👋 Hi, I’m Mae. Im a full-stack web developer. 
+My repos are projects I worked on during my time at Dev Academy. 
+
 
 
 <!---
